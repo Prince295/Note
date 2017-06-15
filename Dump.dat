@@ -1,0 +1,87 @@
+(dp0
+S'Rea'
+p1
+(dp2
+S'Phone'
+p3
+S'8923456'
+p4
+sS'Name'
+p5
+g1
+sS'Date of birth'
+p6
+S'12/12/2356'
+p7
+ssS'Paul George'
+p8
+(dp9
+S'Phone'
+p10
+S'891234567'
+p11
+sS'Name'
+p12
+g8
+sS'Date of birth'
+p13
+S'18/01/1989'
+p14
+ssS'Travis Fimmel'
+p15
+(dp16
+S'Phone'
+p17
+S'8923456'
+p18
+sS'Name'
+p19
+S'Travis Fimmel'
+p20
+sS'Date of birth'
+p21
+S'11/02/1978'
+p22
+ssS'Vic Wild'
+p23
+(dp24
+S'Phone'
+p25
+S'8932435'
+p26
+sS'Name'
+p27
+g23
+sS'Date of birth'
+p28
+S'12/12/2000'
+p29
+ssS'Steak'
+p30
+(dp31
+S'Phone'
+p32
+S'83546'
+p33
+sS'Name'
+p34
+g30
+sS'Date of birth'
+p35
+S'12/23/4567'
+p36
+ssS'Happy'
+p37
+(dp38
+S'Phone'
+p39
+S'8973546'
+p40
+sS'Name'
+p41
+g37
+sS'Date of birth'
+p42
+S'15/06/2005'
+p43
+ss.
